@@ -1,0 +1,89 @@
+body {
+    padding: 0px;
+    margin: 0px;
+}
+
+.navbar-expand-lg {
+    position: absolute;
+    top: 0px;
+}
+
+.container-fluid .nav-item a {
+    color: white;
+}
+
+.background-image {
+    background-image: url('backpacker-7628303_640.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 80vh;
+}
+
+.text-background {
+    background-color: transparent;
+    color: white;
+    margin: 20px;
+    padding: 5px;
+    width: 20%;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.text-background h4 {
+    text-align: center;
+}
+
+.about-container{
+    width: 70%;
+    height: 30%;
+    margin: 50px auto;
+}
+
+.about-container h2 {
+    text-align: justify;
+    text-align: center;
+}
+
+.about-container p {
+    text-align: justify;
+}
+
+.about-container .about-below {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.container-two {
+    width: 70%;
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 50px auto;
+    margin-top: 80px;
+    margin-left: 50px;
+}
+.img{
+    height: 250px;
+    width: 400px;
+    margin-left: 170px;
+}
+#qwerty{
+    margin-left: 290px;
+}
+.flight{
+    border: 2px solid whitesmoke;
+    width: 100%;
+    height: 5px;
+}
+.slight{
+    border: 2px solid black;
+    width: 90%;
+    height: 5px;
+}
+.perct{
+    position: absolute;
+}
